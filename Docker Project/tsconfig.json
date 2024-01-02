@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES2018",
+    "module": "commonjs",
+    "lib": ["es2018"],
+    "outDir": "../simpleblog/simple_blog_api_ts-master/dist",
+    "rootDir": "../simpleblog/simple_blog_api_ts-master/src",
+    "noImplicitAny": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
+  }
+}
